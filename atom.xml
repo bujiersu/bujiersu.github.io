@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bujiersu.github.io</id>
-    <title>Gridea</title>
-    <updated>2019-06-28T02:22:00.741Z</updated>
+    <title>不疾而速</title>
+    <updated>2019-06-28T02:43:02.053Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bujiersu.github.io"/>
     <link rel="self" href="https://bujiersu.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>我寻找过我自己</subtitle>
     <logo>https://bujiersu.github.io/images/avatar.png</logo>
     <icon>https://bujiersu.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <rights>All rights reserved 2019, 不疾而速</rights>
     <entry>
         <title type="html"><![CDATA[20190628]]></title>
         <id>https://bujiersu.github.io/post/20190628</id>
