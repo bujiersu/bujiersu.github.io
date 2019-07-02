@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bujiersu.github.io</id>
-    <title>不疾而速</title>
-    <updated>2019-07-02T02:46:00.171Z</updated>
+    <title>许公子</title>
+    <updated>2019-07-02T02:47:20.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bujiersu.github.io"/>
     <link rel="self" href="https://bujiersu.github.io/atom.xml"/>
     <subtitle>我寻找过我自己</subtitle>
     <logo>https://bujiersu.github.io/images/avatar.png</logo>
     <icon>https://bujiersu.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, 不疾而速</rights>
+    <rights>All rights reserved 2019, 许公子</rights>
     <entry>
         <title type="html"><![CDATA[2019年阅读书单]]></title>
         <id>https://bujiersu.github.io/post/20190628</id>
