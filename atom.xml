@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bujiersu.github.io</id>
     <title>不疾而速</title>
-    <updated>2019-06-28T03:42:48.881Z</updated>
+    <updated>2019-07-02T02:46:00.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bujiersu.github.io"/>
     <link rel="self" href="https://bujiersu.github.io/atom.xml"/>
@@ -11,14 +11,31 @@
     <icon>https://bujiersu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 不疾而速</rights>
     <entry>
-        <title type="html"><![CDATA[20190628]]></title>
+        <title type="html"><![CDATA[2019年阅读书单]]></title>
         <id>https://bujiersu.github.io/post/20190628</id>
         <link href="https://bujiersu.github.io/post/20190628">
         </link>
         <updated>2019-06-28T02:21:33.000Z</updated>
-        <content type="html"><![CDATA[<p>测试
-测试
-测试</p>
+        <content type="html"><![CDATA[<p>谨以此文记录2019年阅读之书。</p>
+<p>目标50本！</p>
+<ol>
+<li>[美]科比·布莱恩特.曼巴精神:科比自传.金城出版社,2018.11(20190105)</li>
+<li>金庸.笑傲江湖.广州:广州出版社,2002.11(20190113)</li>
+<li>刘慈欣.流浪地球.山西春秋电子音像出版社,2014.7(20190207)</li>
+<li>[美]罗兰·弗雷特.挖鼻史.中信出版社,2018.11(20190209)</li>
+<li>[英]阿加莎·克里斯蒂.无人生还.新星出版社,2013.7(20190210)</li>
+<li>刘慈欣.乡村教师.长江文艺出版社,2012.9（20190216）</li>
+<li>吴承恩.西游记.岳麓书社,2016.12（20190222）</li>
+<li>马伯庸.显微镜下的大明.湖南文艺出版社,2019.1（20190227）</li>
+<li>[美]艾萨克·阿西莫夫.银河帝国:基地,江苏文艺出版社.2012.3（20190307）</li>
+<li>[美]艾萨克·阿西莫夫.银河帝国2:基地与帝国,江苏文艺出版社,2012.6（20190315）</li>
+<li>阎连科.日光流年.天津人民出版社,2012.1（20190320）</li>
+<li>金庸.天龙八部.广州出版社.2013.4（20190411）</li>
+<li>[美]艾萨克·阿西莫夫.银河帝国3:第二基地.江苏文艺出版,2012.7（20190420）</li>
+<li>史铁生.我与地坛.北京:人民文学出版社,2008.9(20190609)</li>
+<li>金庸.侠客行.广州:广州出版社,2013.4（20190525）</li>
+<li>刘慈欣.球状闪电.读客文化股份有限公司,2019.6（20190702）</li>
+</ol>
 ]]></content>
     </entry>
 </feed>
