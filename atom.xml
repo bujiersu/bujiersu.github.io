@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bujiersu.github.io</id>
     <title>许公子</title>
-    <updated>2019-07-03T01:17:14.496Z</updated>
+    <updated>2019-07-03T07:54:39.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bujiersu.github.io"/>
     <link rel="self" href="https://bujiersu.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://bujiersu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 许公子</rights>
     <entry>
-        <title type="html"><![CDATA[2019年阅读书单]]></title>
+        <title type="html"><![CDATA[【记录】2019年阅读书单]]></title>
         <id>https://bujiersu.github.io/post/20190628</id>
         <link href="https://bujiersu.github.io/post/20190628">
         </link>
