@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bujiersu.github.io</id>
     <title>许公子</title>
-    <updated>2019-07-09T03:13:56.156Z</updated>
+    <updated>2019-07-21T14:05:02.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bujiersu.github.io"/>
     <link rel="self" href="https://bujiersu.github.io/atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://bujiersu.github.io/images/avatar.png</logo>
     <icon>https://bujiersu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 许公子</rights>
+    <entry>
+        <title type="html"><![CDATA[【记录】月亮和六便士]]></title>
+        <id>https://bujiersu.github.io/post/ji-lu-yue-liang-he-liu-bian-shi</id>
+        <link href="https://bujiersu.github.io/post/ji-lu-yue-liang-he-liu-bian-shi">
+        </link>
+        <updated>2019-07-12T07:56:52.000Z</updated>
+        <summary type="html"><![CDATA[<p>让我们都去追求一个崇高的理想，并且用它获取生活的资本！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>让我们都去追求一个崇高的理想，并且用它获取生活的资本！</p>
+<!--more-->
+<p>月亮和六便士一书，早就</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【记录】2019年阅读书单]]></title>
         <id>https://bujiersu.github.io/post/20190628</id>
@@ -36,6 +49,7 @@
 <li>金庸.侠客行.广州:广州出版社,2013.4（20190525）</li>
 <li>刘慈欣.球状闪电.读客文化股份有限公司,2019.6（20190702）</li>
 <li>马伯庸.长安十二时辰.湖南文艺出版社,2017.1（20190708）</li>
+<li>温瑞安.布衣神相.花城出版社,1996.4（20190718）</li>
 </ol>
 ]]></content>
     </entry>
